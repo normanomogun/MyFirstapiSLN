@@ -23,6 +23,8 @@ namespace ApiFramework
             ApiUrl = ApiUrl + endpoint;
             return ApiUrl; 
         }
+        
+        // This is the Request Class to make request
 
         public RestRequest MakeRequest()
         {
