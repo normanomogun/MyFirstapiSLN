@@ -1,7 +1,6 @@
 ﻿Feature: UserTests
-	In order to avoid silly mistakes
-	As a math idiot
-	I want to be told the sum of two numbers
+	In order to get get correct data from an API 
+	I want to make request and get response
 
 @mytag
 Scenario: Verify user from endpoint
