@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiFramework", "ApiFramework\ApiFramework.csproj", "{CBF73BF8-4596-4DE5-9B1A-5C8561E67046}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiSimpleTest", "ApiSimpleTest\ApiSimpleTest.csproj", "{E0236C5B-46F9-4476-B82E-ED033EDCAD63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBF73BF8-4596-4DE5-9B1A-5C8561E67046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF73BF8-4596-4DE5-9B1A-5C8561E67046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF73BF8-4596-4DE5-9B1A-5C8561E67046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF73BF8-4596-4DE5-9B1A-5C8561E67046}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0236C5B-46F9-4476-B82E-ED033EDCAD63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0236C5B-46F9-4476-B82E-ED033EDCAD63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0236C5B-46F9-4476-B82E-ED033EDCAD63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0236C5B-46F9-4476-B82E-ED033EDCAD63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F10D38D-B7E7-41A7-9B40-CA3EC96426F2}
+	EndGlobalSection
+EndGlobal
